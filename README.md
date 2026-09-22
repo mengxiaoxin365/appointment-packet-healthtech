@@ -43,3 +43,7 @@ The snippet above is intentionally stripped down. Here is what you need to wire 
 
 **Appointment Packet Healthtech: PDF**
 - **Appointment Packet Healthtech:** PDF generation burns through your credit balance. Complex or massive documents cost more, so keep an eye on `GET /v1/account/usage`.
+
+## Further reading
+
+- [Node.js Monthly Statements: Idempotent PDF Watermarking and Auditable Email Delivery](docs/node-js-monthly-statements-idempotent-pdf-waterma-1cyubh.md)
